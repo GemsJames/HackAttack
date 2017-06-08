@@ -1,0 +1,167 @@
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.exe
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.pdb
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.exe
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.pdb
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\fade.png
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\jxz.png
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\Sem nome.png
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempbcgrd.png
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempsplash.png
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Splash.jxz
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\null.png
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Menu.jxz
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\PlayerImage1.png
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Maps\Map1.jxz
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Player.jxz
+C:\Users\diogo\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\TileSets\tileset1.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.exe
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.pdb
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\jxz.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\fade.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\null.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\Sem nome.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempbcgrd.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempsplash.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\PlayerImage1.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\TileSets\tileset1.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Maps\Map1.jxz
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Menu.jxz
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Player.jxz
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Splash.jxz
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.exe
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.pdb
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Enemy.png
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Enem.jxz
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.csprojResolveAssemblyReference.cache
+C:\Users\ze_ri\Desktop\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Enemies.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.exe
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.pdb
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Enemies.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Enemy.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\jxz.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\fade.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\null.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\Sem nome.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempbcgrd.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempsplash.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\PlayerImage1.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\TileSets\tileset1.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Enem.jxz
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Maps\Map1.jxz
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Menu.jxz
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Player.jxz
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Splash.jxz
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\bullet.png
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.exe
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.pdb
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ze_ri\Desktop\Stuff\tecnicas\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.exe
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.pdb
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\bullet.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Enemies.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Enemy.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\jxz.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\fade.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\null.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\Sem nome.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempbcgrd.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\Images\tempsplash.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\PlayerImage1.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\TileSets\tileset1.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Enem.jxz
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Maps\Map1.jxz
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Menu.jxz
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Player.jxz
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Load\Splash.jxz
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.exe
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Hack Attack.pdb
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\obj\x86\Debug\Hack Attack.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\background.png
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\untitled.mp3
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\untitled.wma
+C:\Users\diogo\Desktop\Nova pasta (3)\Hack Attack\Hack Attack\Hack Attack\bin\Windows\x86\Debug\Content\untitled.xnb

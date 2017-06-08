@@ -1,0 +1,2 @@
+﻿Load=[Image][Position][Frames][MoveSpeed][Range]
+[Enemy][0,128][2,1][50][200]
